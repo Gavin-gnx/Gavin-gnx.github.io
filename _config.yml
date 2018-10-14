@@ -1,12 +1,12 @@
 future: true
 permalink: /:title/
-url: http://Gavin-gnx.github.io
+url: http://gavin-gnx.github.io
 name: 关校长
-author: Gavin Guan
+author: gavin-gnx
 beian: 
 cnzz: 
-github: Gavin-gnx
+github: gavin-gnx
 paginate: 20
 highlighter: rouge
 truncate: true
-about: "关校长(Gavin Guan)"
+about: "关校长(gavin-gnx)"
